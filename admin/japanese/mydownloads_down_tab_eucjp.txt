@@ -1,0 +1,3 @@
+ダウンロードのカテゴリ１
+WebLinks: XOOPS リンク集モジュール	http://linux.ohwada.jp/download/weblinks-092.zip	本モジュールは、mylinks をベースに大幅に機能追加したものです。\nmylinks に対して上位互換性があります。\n
+What's New: XOOPS 新着情報 モジュール	http://linux.ohwada.jp/download/whatsnew-110.zip	複数のモジュールから最新の記事を集めて、新着記事一覧ブロック と RSSとATOM を作成する。\n

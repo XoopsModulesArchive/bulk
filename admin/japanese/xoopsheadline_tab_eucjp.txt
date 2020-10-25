@@ -1,0 +1,2 @@
+XOOPS公式サイト	http://jp.xoops.org/	http://jp.xoops.org/backend.php
+朝日新聞	http://www.asahi.com/	http://www3.asahi.com/rss/index.rdf
